@@ -1,4 +1,4 @@
-# Hi 👋 I'm Bhoomika Vachheta
+# Hi 👋 I'm Bhoomika Mahavar Vachheta
 
 🚀 MERN Stack Developer | WordPress Developer  
 📍 Ahmedabad, India
