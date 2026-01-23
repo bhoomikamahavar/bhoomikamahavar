@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Bhoomika Vachheta
 
-<!--
-**bhoomikamahavar/bhoomikamahavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | WordPress Developer  
+📍 Ahmedabad, India
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I am a certified MERN Stack Developer with strong experience in WordPress development and web design.  
+I build responsive, secure, and scalable web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind, Bootstrap  
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+**Database:** MongoDB, Mongoose, MySQL (Basic)  
+**WordPress:** Theme & Plugin Development, ACF, Elementor  
+**Tools:** Git, GitHub, Postman, VS Code, Figma
+
+## 📌 Projects
+### 🔹 MERN Stack CRUD Application
+- JWT Authentication & Protected Routes
+- Product Add / Update / Delete
+- REST APIs & MongoDB integration
+
+### 🔹 React Portfolio
+- Component-based UI
+- Responsive design
+
+### 🔹 Node.js REST API
+- CRUD operations
+- API testing using Postman
+
+## 🔗 Connect with Me
+- Email: bhoomikamahavar1796@gmail.com 
+- [LinkedIn](https://www.linkedin.com/in/bhoomikamahavar/)
+
