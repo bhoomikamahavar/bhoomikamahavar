@@ -30,5 +30,5 @@ I build responsive, secure, and scalable web applications using modern technolog
 
 ## 🔗 Connect with Me
 - Email: bhoomikamahavar1796@gmail.com 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhoomikamahavar/)
+- LinkedIn: [in/bhoomikamahavar/](https://www.linkedin.com/in/bhoomikamahavar/)
 
