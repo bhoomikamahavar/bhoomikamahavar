@@ -94,7 +94,6 @@ Git, GitHub, Postman, VS Code, Figma, Photoshop, GIMP
 - **Email:** bhoomikamahavar1796@gmail.com
 - **LinkedIn:** [linkedin.com/in/bhoomikamahavar](https://www.linkedin.com/in/bhoomikamahavar/)
 - **GitHub:** [github.com/bhoomikamahavar](https://github.com/bhoomikamahavar)
-- **Contact:** +91 960-169-2848
 
 ---
 
